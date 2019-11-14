@@ -1,0 +1,5 @@
+1. css = a.top-navigation__item-link, xpath = //a[@class='top-navigation__item-link'];
+2. css = , xpath = //div[@class='ng-binding'][contains(text(),'1')];
+3. css = div.news-page-item__title, xpath = //div[@class = "news-page-item__title"];
+4. css = , xpath = //a[contains(text(),'Automation')];
+5. css = span.button__content, xpath = //span[@class='button__content' and text() = "Learn more"]
