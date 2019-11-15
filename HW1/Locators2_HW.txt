@@ -1,0 +1,5 @@
+1. css = , xpath = //a[@title="United States"]/../../td[1];
+2. css = , xpath = //img[@alt = "Effective Programming for America logo.svg"];
+3. css = , xpath = //div[@id = 'toc']//span[contains(text(),'2')]/following-sibling::span;
+4. css = , xpath = //a[@class = 'interlanguage-link-target'];
+5. css = , xpath = //li[starts-with(@id, "t")]/a
